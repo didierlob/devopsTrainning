@@ -1,4 +1,4 @@
 Feature: Eating tomatoes
-Given a customer is on the website
-When the customer enters a search query "running shoes"
-Then the website displays search results related to "running shoes"
+Given a tomatoe
+When i eat it
+Then the tomatoe goes in my tummy
